@@ -1,0 +1,12 @@
+Member 1: 1181103362 Chang See Jie
+Member 2: 1181103353 Tee Ming Yuan
+
+TASK DISTRIBUTION
+1. Customer and Shop: 	Chang See Jie - 10%
+		      	Tee Ming Yuan - 90%
+
+2. Admin: 		Chang See Jie - 80%
+	  		Tee Ming Yuan - 20%
+
+3. Javadoc: 		Chang See Jie - 80%
+	    		Tee Ming Yuan - 20%
